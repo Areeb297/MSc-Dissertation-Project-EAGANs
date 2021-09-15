@@ -1303,7 +1303,7 @@ filled = {}
 subjects_order = {}
 groups_empty_space = {} 
 teachers_empty_space = {}
-file = 'SampleWMGschedule2.txt'
+file = 'Week-Room Sample Module Data.txt'
 
     
 
