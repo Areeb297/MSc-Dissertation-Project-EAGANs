@@ -19,7 +19,7 @@ import torch
 # import torch 
 # print(torch.__version__)
 
-def set_random_seed(seed, deterministic=False):
+def set_random_seed(seed, deterministic=False): # Adapted from open-mmlab (2019), https://www.programcreek.com/python/?code=open-mmlab%2Fmmdetection%2Fmmdetection-master%2Fmmdet%2Fapis%2Ftrain.py 
     """Set random seed.
 
     Args:
@@ -41,7 +41,7 @@ def set_random_seed(seed, deterministic=False):
 seed = 13 # 13
 set_random_seed(seed, deterministic=False)
 
-
+# EA and SH model adapted from NDresevic (2019) https://github.com/NDresevic/timetable-generator
 class Module:
 
     def __init__(self, groups, teacher, subject, type, duration, rooms):
@@ -1051,6 +1051,8 @@ batch_size = 15
 num_epochs = 10
 
 
+# General Adversarial Network Code adapted from Conor Lazarou (2020) https://towardsdatascience.com/pytorch-and-gans-a-micro-tutorial-804855817a6b
+
 class Generator(nn.Module):
     def __init__(self, output_activation=nn.ReLU()):
         """A generator for mapping a latent space to a sample space.
@@ -1297,7 +1299,7 @@ if __name__ == "__main__":
     main()
     
 
-# Testing the generator:
+# Testing the generator code - run after training
 
 filled = {}
 subjects_order = {}
