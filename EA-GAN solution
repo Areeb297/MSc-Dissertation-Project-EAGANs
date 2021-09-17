@@ -445,7 +445,7 @@ def write_solution_to_file(matrix, data, filled, filepath, groups_empty_space, t
     """
     Writes statistics and schedule to file.
     """
-    f = open('solution_files/valid_sol_{}_'.format(i) + filepath, 'w')
+    f = open('solution_files/valid_timetable_{}_'.format(i) + filepath, 'w')
 
     f.write('-------------------------- STATISTICS --------------------------\n')
     cost_hard = check_hard_constraints(matrix, data)
@@ -1033,7 +1033,7 @@ filled = {}
 subjects_order = {}
 groups_empty_space = {} 
 teachers_empty_space = {}
-file = 'SampleWMGschedule2.txt'
+file = 'Week-Room Sample Module Data.txt'
 
     
 
@@ -1301,59 +1301,59 @@ if __name__ == "__main__":
 
 # Testing the generator code - run after training
 
-filled = {}
-subjects_order = {}
-groups_empty_space = {} 
-teachers_empty_space = {}
-file = 'Week-Room Sample Module Data.txt'
+# filled = {}
+# subjects_order = {}
+# groups_empty_space = {} 
+# teachers_empty_space = {}
+# file = 'Week-Room Sample Module Data.txt'
 
     
 
 
-data = load_data('test_files/' + file, teachers_empty_space, groups_empty_space, subjects_order)
-matrix, free = set_up(len(data.rooms))
-batch_size = 1
-class Generator(nn.Module):
-    def __init__(self, output_activation=nn.ReLU()):
-        """A generator for mapping a latent space to a sample space.
-        Args:
-            latent_dim (int): latent dimension ("noise vector")
-            layers (List[int]): A list of layer widths including output width
-            output_activation: torch activation function or None
-        """
-        super(Generator, self).__init__()
-        self.linear1 = nn.Linear(batch_size*31*21, 25)
-        self.linear2 = nn.Linear(25, 59)
-        self.relu = nn.ReLU()
-        self.dropout = nn.Dropout(0.7)
-        self.softmax = nn.Softmax(dim=1)
-        self.sigmoid = nn.Sigmoid()
-        self.linear3 = nn.Linear(59, batch_size*31*21)
-        self.output_activation = output_activation
+# data = load_data('test_files/' + file, teachers_empty_space, groups_empty_space, subjects_order)
+# matrix, free = set_up(len(data.rooms))
+# batch_size = 1
+# class Generator(nn.Module):
+#     def __init__(self, output_activation=nn.ReLU()):
+#         """A generator for mapping a latent space to a sample space.
+#         Args:
+#             latent_dim (int): latent dimension ("noise vector")
+#             layers (List[int]): A list of layer widths including output width
+#             output_activation: torch activation function or None
+#         """
+#         super(Generator, self).__init__()
+#         self.linear1 = nn.Linear(batch_size*31*21, 25)
+#         self.linear2 = nn.Linear(25, 59)
+#         self.relu = nn.ReLU()
+#         self.dropout = nn.Dropout(0.7)
+#         self.softmax = nn.Softmax(dim=1)
+#         self.sigmoid = nn.Sigmoid()
+#         self.linear3 = nn.Linear(59, batch_size*31*21)
+#         self.output_activation = output_activation
        
-    def forward(self, input_tensor):
-        """Forward pass; map latent vectors to samples."""
-        intermediate = self.linear1(input_tensor)
-        intermediate = self.softmax(intermediate)
-        intermediate = self.linear2(intermediate)
-        intermediate = self.relu(intermediate)
-        intermediate = self.dropout(intermediate)
-        intermediate = self.sigmoid(intermediate)
-        intermediate = self.dropout(intermediate)
-        intermediate = self.linear3(intermediate)
+#     def forward(self, input_tensor):
+#         """Forward pass; map latent vectors to samples."""
+#         intermediate = self.linear1(input_tensor)
+#         intermediate = self.softmax(intermediate)
+#         intermediate = self.linear2(intermediate)
+#         intermediate = self.relu(intermediate)
+#         intermediate = self.dropout(intermediate)
+#         intermediate = self.sigmoid(intermediate)
+#         intermediate = self.dropout(intermediate)
+#         intermediate = self.linear3(intermediate)
         
-        if self.output_activation is not None:
-            intermediate = self.output_activation(intermediate)
+#         if self.output_activation is not None:
+#             intermediate = self.output_activation(intermediate)
             
-        # intermediate = self.relu(intermediate)
+#         # intermediate = self.relu(intermediate)
 
     
         
-        intermediate = intermediate.view((batch_size, 31, 21))
-        return intermediate
-noise = torch.rand(1, batch_size*31*21)
-generator = Generator()
-generated = generator(noise)
-classifications, mat = make_discriminator_model(batch_size, matrix, generated, data, free, filled, groups_empty_space, teachers_empty_space, subjects_order, file)
-classifications
+#         intermediate = intermediate.view((batch_size, 31, 21))
+#         return intermediate
+# noise = torch.rand(1, batch_size*31*21)
+# generator = Generator()
+# generated = generator(noise)
+# classifications, mat = make_discriminator_model(batch_size, matrix, generated, data, free, filled, groups_empty_space, teachers_empty_space, subjects_order, file)
+# classifications
     
