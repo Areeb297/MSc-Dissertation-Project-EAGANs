@@ -445,7 +445,7 @@ def write_solution_to_file(matrix, data, filled, filepath, groups_empty_space, t
     """
     Writes statistics and schedule to file.
     """
-    f = open('solution_files/valid_timetable_{}'.format(i), 'w')
+    f = open('solution_files/valid_timetable_{}.txt'.format(i), 'w')
 
     f.write('-------------------------- STATISTICS --------------------------\n')
     cost_hard = check_hard_constraints(matrix, data)
