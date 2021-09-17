@@ -1,0 +1,1455 @@
+-------------------------- STATISTICS --------------------------
+Hard constraints NOT satisfied, cost: 4
+Soft constraints satisfied: 46.15 %
+
+TOTAL empty space for all GROUPS and all weeks: 687
+MAX empty space for GROUP in a week: 21
+AVERAGE empty space for GROUPS per week: 11.64
+
+TOTAL empty space for all TEACHERS and all weeks: 615
+MAX empty space for TEACHER in day: 24
+AVERAGE empty space for TEACHERS for all week: 9.46
+
+NO weekly slots without modules.
+
+--------------------------- SCHEDULE ---------------------------
+
+Module 131
+Teacher: Alberto 
+Subject: Managing Cyber Risk, Audit and Compliance 
+Groups: 6001 
+Type: Lecture 
+Duration:  2  week(s)\Room: B1 
+Time: Week# 13 14
+
+Module 192
+Teacher: Dusan 
+Subject: Organisations, People and Performance 
+Groups: 105 
+Type: Lecture 
+Duration: 1 week(s)\Room: R11 
+Time: Week# 8
+
+Module 124
+Teacher: Aaron 
+Subject: Cryptosystems and Data Protection 
+Groups: 7005 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 3
+
+Module 12
+Teacher: Alberto 
+Subject: Managing Cyber Risk, Audit and Compliance 
+Groups: 6003 
+Type: Lecture 
+Duration:  2  week(s)\Room: A2 
+Time: Week# 23 24
+
+Module 95
+Teacher: Heyman Nikola 
+Subject: Manufacturing Technology 
+Groups: 105 
+Type: Lecture 
+Duration: 1 week(s)\Room: R11 
+Time: Week# 14
+
+Module 108
+Teacher: Joa 
+Subject: Organisations, People and Performance 
+Groups: 405 
+Type: Lecture 
+Duration:  1  week(s)\Room: R5 
+Time: Week# 15
+
+Module 161
+Teacher: Ethan 
+Subject: Management of Change 
+Groups: 2001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R2 
+Time: Week# 18
+
+Module 226
+Teacher: Martin 
+Subject: Automotive Hybridisation and Electrification  
+Groups: 9003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 16
+
+Module 181
+Teacher: Margaret 
+Subject: Financial Analysis and Control Systems 
+Groups: 305 
+Type: Lecture 
+Duration:  1  week(s)\Room: R10 
+Time: Week# 14
+
+Module 151
+Teacher: Gareth 
+Subject: Digital Marketing Strategy and Management 
+Groups: 903 
+Type: Lecture 
+Duration:  2  week(s)\Room: R5 
+Time: Week# 19 20
+
+Module 87
+Teacher: James 
+Subject: e-Business Fundamentals 
+Groups: 703, 1003, 603, 803, 903 
+Type: Lecture 
+Duration: 2 week(s)\Room: A1 
+Time: Week# 11 12
+
+Module 60
+Teacher: Milton 
+Subject: Sales and Sales Management 
+Groups: 2003 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 21
+
+Module 34
+Teacher: Joshua 
+Subject: Strategic Marketing 
+Groups: 3001 
+Type: Lecture 
+Duration:  2  week(s)\Room: R7 
+Time: Week# 15 16
+
+Module 174
+Teacher: Michael Mortenson 
+Subject: Big Data and Marketing Technology 
+Groups: 705 
+Type: Lecture 
+Duration:  2  week(s)\Room: A1 
+Time: Week# 27 28
+
+Module 288
+Teacher: Gerald 
+Subject: Automation & Robotics 
+Groups: 8003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R8 
+Time: Week# 20
+
+Module 102
+Teacher: Mark 
+Subject: Enterprise e-Commerce Solutions 
+Groups: 603, 803 
+Type: Lab 
+Duration:  2  week(s)\Room: A2 
+Time: Week# 5 6
+
+Module 165
+Teacher: Kingston 
+Subject: Logistics & Operations Management 
+Groups: 8001 
+Type: Lecture 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 7
+
+Module 15
+Teacher: Harvey 
+Subject: Operational Management and Clinical Systems Improvement 
+Groups: 5005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 19
+
+Module 5
+Teacher: Jovać Chars 
+Subject: Leadership and Excellence 
+Groups: 301 
+Type: Lecture 
+Duration:  2  week(s)\Room: B1 
+Time: Week# 29 30
+
+Module 199
+Teacher: Feyman 
+Subject: International Joint Ventures 
+Groups: 401 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 22
+
+Module 179
+Teacher: Jovanović Charles 
+Subject: Digital Forensics 
+Groups: 7001 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 18
+
+Module 263
+Teacher: Aaron 
+Subject: Security Architectures and Network Defence 
+Groups: 7001 
+Type: Lab 
+Duration:  1  week(s)\Room: C1 
+Time: Week# 16
+
+Module 126
+Teacher: Nemanja 
+Subject: Product Design & Development Management 
+Groups: 105 
+Type: Lecture 
+Duration: 1 week(s)\Room: B1 
+Time: Week# 6
+
+Module 112
+Teacher: Gavrilović Vuk 
+Subject: Systems Thinking and Systems Engineering  
+Groups: 201 
+Type: Lab 
+Duration:  1  week(s)\Room: L2 
+Time: Week# 5
+
+Module 40
+Teacher: Stuart 
+Subject: Machine Intelligence and Data Science  
+Groups: 10001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R12 
+Time: Week# 16
+
+Module 68
+Teacher: Jovanović Niko 
+Subject: Emerging Technologies for Business 
+Groups: 203 
+Type: Lecture 
+Duration:  2  week(s)\Room: R12 
+Time: Week# 9 10
+
+Module 264
+Teacher: Liam 
+Subject: Digital Marketing, Strategy and Management 
+Groups: 705 
+Type: Lecture 
+Duration:  2  week(s)\Room: R1 
+Time: Week# 29 30
+
+Module 134
+Teacher: Riley 
+Subject: Supply Chain Management 
+Groups: 501 
+Type: Lecture 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 6
+
+Module 123
+Teacher: Emily 
+Subject: Financial Analysis and Control Systems 
+Groups: 505 
+Type: Lecture 
+Duration:  1  week(s)\Room: A2 
+Time: Week# 28
+
+Module 160
+Teacher: Feyman 
+Subject: Financial Analysis & Control Systems 
+Groups: 101, 301 
+Type: Lecture 
+Duration: 1 week(s)\Room: A1 
+Time: Week# 6
+
+Module 143
+Teacher: Jovanola 
+Subject: Project Planning Management and Control 
+Groups: 405 
+Type: Lecture 
+Duration:  1  week(s)\Room: R6 
+Time: Week# 18
+
+Module 0
+Teacher: Martin 
+Subject: Automotive Hybridisation and Electrification  
+Groups: 9001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R2 
+Time: Week# 5
+
+Module 96
+Teacher: Emily 
+Subject: Organisations, People and Performance 
+Groups: 503 
+Type: Lab 
+Duration:  1  week(s)\Room: R9 
+Time: Week# 21
+
+Module 61
+Teacher: Gareth 
+Subject: Digital Marketing Campaigns 
+Groups: 705 
+Type: Lecture 
+Duration:  2  week(s)\Room: R7 
+Time: Week# 7 8
+
+Module 200
+Teacher: Feyman 
+Subject: Programme and Project Strategy 
+Groups: 401 
+Type: Lecture 
+Duration:  1  week(s)\Room: R10 
+Time: Week# 15
+
+Module 216
+Teacher: Martin 
+Subject: The Virtual Factory 
+Groups: 8005 
+Type: Lecture 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 12
+
+Module 82
+Teacher: Heyman Nikola 
+Subject: Introduction to Health Economics 
+Groups: 5003 
+Type: Lecture 
+Duration: 1 week(s)\Room: R13 
+Time: Week# 24
+
+Module 136
+Teacher: Joshua 
+Subject: Business Model Generation 
+Groups: 4003 
+Type: Lecture 
+Duration:  1  week(s)\Room: A2 
+Time: Week# 7
+
+Module 16
+Teacher: Milton 
+Subject: Leading Change 
+Groups: 4001 
+Type: Lecture 
+Duration:  1  week(s)\Room: A2 
+Time: Week# 15
+
+Module 128
+Teacher: Zirojevic Nemanja 
+Subject: Manufacturing Technology 
+Groups: 105 
+Type: Lab 
+Duration: 1 week(s)\Room: Enginerring Hall 
+Time: Week# 5
+
+Module 233
+Teacher: John Nikola 
+Subject: Creating Business Excellence 
+Groups: 303 
+Type: Lecture 
+Duration:  1  week(s)\Room: R13 
+Time: Week# 15
+
+Module 121
+Teacher: Lucy 
+Subject: Energy Storage Systems 
+Groups: 9005 
+Type: Lab 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 10
+
+Module 186
+Teacher: Jovanović Charles 
+Subject: Innovative Simulation Design and Development 
+Groups: 1001 
+Type: Lecture 
+Duration:  1  week(s)\Room: A1 
+Time: Week# 29
+
+Module 39
+Teacher: Harvey 
+Subject: Operational Management and Clinical Systems Improvement 
+Groups: 5003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 16
+
+Module 166
+Teacher: Jovanović Charles 
+Subject: Robust Decision Making 
+Groups: 305 
+Type: Lecture 
+Duration:  1  week(s)\Room: A1 
+Time: Week# 26
+
+Module 243
+Teacher: Joshua 
+Subject: Leading Change in Healthcare 
+Groups: 5003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R8 
+Time: Week# 25
+
+Module 219
+Teacher: Sha 
+Subject: Digital and Data Science Consultancy 
+Groups: 1005 
+Type: Lecture 
+Duration:  2  week(s)\Room: R12 
+Time: Week# 29 30
+
+Module 149
+Teacher: Alexis 
+Subject: Cyber Intelligence and Operations 
+Groups: 7003 
+Type: Lab 
+Duration:  1  week(s)\Room: C1 
+Time: Week# 19
+
+Module 152
+Teacher: Harvey 
+Subject: Operational Management and Clinical Systems Improvement 
+Groups: 5001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R1 
+Time: Week# 6
+
+Module 332
+Teacher: Harvey 
+Subject: Introduction to Health Informatics 
+Groups: 5001 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 9
+
+Module 76
+Teacher: Joshua 
+Subject: Business Model Generation 
+Groups: 4001 
+Type: Lecture 
+Duration:  1  week(s)\Room: A1 
+Time: Week# 1
+
+Module 27
+Teacher: Michael Mortenson 
+Subject: Cloud Native Computing 
+Groups: 803 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 18
+
+Module 73
+Teacher: Mark 
+Subject: Enterprise e-Commerce Solutions 
+Groups: 605, 805 
+Type: Lab 
+Duration:  2  week(s)\Room: R11 
+Time: Week# 3 4
+
+Module 122
+Teacher: Surla Bojana 
+Subject: Project Planning Management and Control 
+Groups: 103 
+Type: Lecture 
+Duration: 1 week(s)\Room: R8 
+Time: Week# 3
+
+Module 38
+Teacher: JHeyman 
+Subject: Industrial Engineering 
+Groups: 8003 
+Type: Lecture 
+Duration:  1  week(s)\Room: A2 
+Time: Week# 18
+
+Module 71
+Teacher: Dan 
+Subject: Problem Solving with Statistics and Finance 
+Groups: 1001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 20
+
+Module 189
+Teacher: Jovi Nila 
+Subject: Organisations, People and Performance 
+Groups: 303 
+Type: Lecture 
+Duration:  1  week(s)\Room: R7 
+Time: Week# 29
+
+Module 80
+Teacher: Peter Nikola 
+Subject: Fundamentals of Automotive Research, Development, and Management  
+Groups: 10005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R12 
+Time: Week# 8
+
+Module 114
+Teacher: Heyman Nikola 
+Subject: Leadership 
+Groups: 2005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R10 
+Time: Week# 3
+
+Module 94
+Teacher: Jackson Thomas 
+Subject: Financial Analysis & Control Systems 
+Groups: 2003 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 7
+
+Module 50
+Teacher: Alexis 
+Subject: Cyber-Physical Systems 
+Groups: 7001 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 12
+
+Module 210
+Teacher: Lewis 
+Subject: Innovation 
+Groups: 2003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R12 
+Time: Week# 24
+
+Module 4
+Teacher: Jić Nia 
+Subject: Creating Business Excellence 
+Groups: 301 
+Type: Lecture 
+Duration:  1  week(s)\Room: R13 
+Time: Week# 13
+
+Module 10
+Teacher: Milton 
+Subject: Sales and Sales Management 
+Groups: 2001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R8 
+Time: Week# 28
+
+Module 255
+Teacher: Heyman Nikola 
+Subject: Introduction to Health Economics 
+Groups: 5001 
+Type: Lecture 
+Duration: 1 week(s)\Room: R12 
+Time: Week# 12
+
+Module 201
+Teacher: Lucy 
+Subject: Electrical Drivetrains  
+Groups: 9003 
+Type: Lecture 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 1
+
+Module 127
+Teacher: Jovanović Nikola 
+Subject: Proactive Cyber Defence  
+Groups: 6003 
+Type: Lecture 
+Duration:  2  week(s)\Room: R5 
+Time: Week# 5 6
+
+Module 14
+Teacher: Sha 
+Subject: Supply Chain Integration and Finance 
+Groups: 703, 603 
+Type: Lecture 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 8
+
+Module 223
+Teacher: Areeb 
+Subject: International Joint Ventures  
+Groups: 201 
+Type: Lecture 
+Duration:  1  week(s)\Room: R9 
+Time: Week# 23
+
+Module 20
+Teacher: Zirojevic Nemanja 
+Subject: Manufacturing Technology 
+Groups: 103, 104 
+Type: Lecture 
+Duration: 1 week(s)\Room: R9 
+Time: Week# 1
+
+Module 110
+Teacher: James 
+Subject: Digital Consultancy 
+Groups: 901 
+Type: Lecture 
+Duration:  2  week(s)\Room: R12 
+Time: Week# 17 18
+
+Module 256
+Teacher: Ethan 
+Subject: Management of Change 
+Groups: 2003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R1 
+Time: Week# 5
+
+Module 99
+Teacher: Lucy 
+Subject: Energy Storage Systems 
+Groups: 9001 
+Type: Lab 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 29
+
+Module 88
+Teacher: Milton 
+Subject: Service Design and Delivery 
+Groups: 4003 
+Type: Lecture 
+Duration:  1  week(s)\Room: A2 
+Time: Week# 20
+
+Module 81
+Teacher: Joshua 
+Subject: Financial Analysis and Control Systems 
+Groups: 3005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R1 
+Time: Week# 22
+
+Module 17
+Teacher: Heyman Nikola 
+Subject: Managing the Multi-Project/Programme Environment 
+Groups: 401 
+Type: Lab 
+Duration:  1  week(s)\Room: R8 
+Time: Week# 13
+
+Module 225
+Teacher: Emily 
+Subject: Digital Entrepreneurship and Financing 
+Groups: 903 
+Type: Lecture 
+Duration:  2  week(s)\Room: R4 
+Time: Week# 9 10
+
+Module 30
+Teacher: Heyman Nikola 
+Subject: Managing Innovation and Change  
+Groups: 201 
+Type: Lab 
+Duration: 1 week(s)\Room: B1 
+Time: Week# 20
+
+Module 115
+Teacher: Jan Nikola 
+Subject: Automotive Sensors and Sensor Fusion  
+Groups: 10001 
+Type: Lab 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 17
+
+Module 62
+Teacher: Conner 
+Subject: Epidemiological and Statistical Methods for Quality Improvement 
+Groups: 5005 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 28
+
+Module 159
+Teacher: Lucy 
+Subject: Battery Electrochemistry, Design and Manufacturing 
+Groups: 9001 
+Type: Lecture 
+Duration: 1 week(s)\Room: Enginerring Hall 
+Time: Week# 6
+
+Module 105
+Teacher: Peter Nikola 
+Subject: Fundamentals of Automotive Research, Development, and Management  
+Groups: 10001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R10 
+Time: Week# 13
+
+Module 53
+Teacher: Zirojevic Nemanja 
+Subject: Manufacturing Technology 
+Groups: 101 
+Type: Lecture 
+Duration: 1 week(s)\Room: R9 
+Time: Week# 19
+
+Module 303
+Teacher: Marion 
+Subject: Programming and Fundamental Algorithms 
+Groups: 10003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R7 
+Time: Week# 6
+
+Module 196
+Teacher: David 
+Subject: Financial Analysis & Control Systems 
+Groups: 103, 503 
+Type: Lecture 
+Duration: 1 week(s)\Room: R7 
+Time: Week# 13
+
+Module 218
+Teacher: Martin 
+Subject: Automotive Research, Strategy and Environment 
+Groups: 9005 
+Type: Lecture 
+Duration:  2  week(s)\Room: R2 
+Time: Week# 7 8
+
+Module 21
+Teacher: Liping 
+Subject: Digital Development with Python 
+Groups: 605 
+Type: Lecture 
+Duration:  1  week(s)\Room: R6 
+Time: Week# 16
+
+Module 79
+Teacher: Marion 
+Subject: Programming and Fundamental Algorithms 
+Groups: 10001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R2 
+Time: Week# 10
+
+Module 175
+Teacher: Milton 
+Subject: Legal Aspects of Global Business 
+Groups: 3005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R2 
+Time: Week# 17
+
+Module 197
+Teacher: Milton 
+Subject: International Trade 
+Groups: 3005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R7 
+Time: Week# 1
+
+Module 26
+Teacher: Joshua 
+Subject: Reputation and Relationship Management 
+Groups: 4001 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 2
+
+Module 37
+Teacher: Liam 
+Subject: Digital Marketing, Strategy and Management 
+Groups: 703 
+Type: Lecture 
+Duration:  2  week(s)\Room: R11 
+Time: Week# 23 24
+
+Module 384
+Teacher: Milton 
+Subject: International Joint Ventures 
+Groups: 3005 
+Type: Lab 
+Duration:  1  week(s)\Room: R7 
+Time: Week# 26
+
+Module 41
+Teacher: Joć Nikola 
+Subject: Robust Automotive Embedded Systems  
+Groups: 10003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 7
+
+Module 213
+Teacher: Lindhi 
+Subject: Programme and Project Strategy 
+Groups: 405 
+Type: Lecture 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 21
+
+Module 258
+Teacher: Alexis 
+Subject: Cyber-Physical Systems 
+Groups: 7005 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 25
+
+Module 244
+Teacher: Gareth 
+Subject: Digital Marketing Strategy and Management 
+Groups: 905 
+Type: Lecture 
+Duration:  2  week(s)\Room: R2 
+Time: Week# 11 12
+
+Module 117
+Teacher: Heyman Nikola 
+Subject: Resource Management in Healthcare Service Delivery 
+Groups: 5003 
+Type: Lab 
+Duration: 1 week(s)\Room: B1 
+Time: Week# 15
+
+Module 52
+Teacher: Gavrilović Vuk 
+Subject: Emerging Technologies for Business 
+Groups: 201 
+Type: Lecture 
+Duration:  2  week(s)\Room: Enginerring Hall 
+Time: Week# 25 26
+
+Module 91
+Teacher: Alexis 
+Subject: Industrial Espionage and Counterfeiting 
+Groups: 7003 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 10
+
+Module 164
+Teacher: Pearls 
+Subject: Managing the Multi-Project/Programme Environment 
+Groups: 405 
+Type: Lab 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 28
+
+Module 148
+Teacher: Johla 
+Subject: International Joint Ventures 
+Groups: 403 
+Type: Lecture 
+Duration:  1  week(s)\Room: R6 
+Time: Week# 21
+
+Module 206
+Teacher: Jovi Nila 
+Subject: Organisations, People and Performance 
+Groups: 301 
+Type: Lecture 
+Duration:  1  week(s)\Room: R6 
+Time: Week# 22
+
+Module 187
+Teacher: Marion 
+Subject: Programming and Fundamental Algorithms 
+Groups: 10003 
+Type: Lab 
+Duration:  1  week(s)\Room: L2 
+Time: Week# 13
+
+Module 262
+Teacher: Linda Heyman 
+Subject: Manufacturing Process Technology 
+Groups: 8005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R7 
+Time: Week# 4
+
+Module 33
+Teacher: Gerald 
+Subject: Operations Strategy For Industry 
+Groups: 8005 
+Type: Lecture 
+Duration:  1  week(s)\Room: A1 
+Time: Week# 3
+
+Module 44
+Teacher: Hunter 
+Subject: Penetration Testing 
+Groups: 6005 
+Type: Lecture 
+Duration:  2  week(s)\Room: R13 
+Time: Week# 11 12
+
+Module 129
+Teacher: Heyman Nikola 
+Subject: Introduction to Health Economics 
+Groups: 5005 
+Type: Lecture 
+Duration: 1 week(s)\Room: B1 
+Time: Week# 5
+
+Module 142
+Teacher: Keith 
+Subject: Electrical Drivetrains  
+Groups: 9005, 9006 
+Type: Lecture 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 9
+
+Module 285
+Teacher: Emily 
+Subject: Organisations, People and Performance 
+Groups: 501 
+Type: Lab 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 15
+
+Module 1
+Teacher: Michael Mortenson 
+Subject: Cloud Native Computing 
+Groups: 801 
+Type: Lecture 
+Duration:  1  week(s)\Room: R5 
+Time: Week# 22
+
+Module 83
+Teacher: Gerald 
+Subject: Automation & Robotics 
+Groups: 8005 
+Type: Lecture 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 19
+
+Module 45
+Teacher: Milton 
+Subject: International Joint Ventures 
+Groups: 3005 
+Type: Lab 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 6
+
+Module 309
+Teacher: Emily 
+Subject: Organisations, People and Performance 
+Groups: 505 
+Type: Lab 
+Duration:  1  week(s)\Room: A1 
+Time: Week# 24
+
+Module 144
+Teacher: Milton 
+Subject: Leading Change 
+Groups: 4003 
+Type: Lecture 
+Duration:  1  week(s)\Room: A1 
+Time: Week# 18
+
+Module 279
+Teacher: Milton 
+Subject: International Joint Ventures 
+Groups: 3003 
+Type: Lab 
+Duration:  1  week(s)\Room: R2 
+Time: Week# 22
+
+Module 293
+Teacher: Joshua 
+Subject: Strategic Marketing 
+Groups: 3003 
+Type: Lecture 
+Duration:  2  week(s)\Room: R4 
+Time: Week# 23 24
+
+Module 58
+Teacher: Ethan 
+Subject: Business Model Generation 
+Groups: 2005 
+Type: Lab 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 13
+
+Module 249
+Teacher: Joshua 
+Subject: Reputation and Relationship Management 
+Groups: 4003 
+Type: Lecture 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 3
+
+Module 109
+Teacher: Milton 
+Subject: Transport Techniques and Management 
+Groups: 3003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 11
+
+Module 252
+Teacher: Hunter 
+Subject: Digital Forensic Investigation  
+Groups: 6003 
+Type: Lab 
+Duration:  2  week(s)\Room: R12 
+Time: Week# 13 14
+
+Module 85
+Teacher: Martin 
+Subject: Automotive Research, Strategy and Environment 
+Groups: 9001 
+Type: Lecture 
+Duration:  2  week(s)\Room: Enginerring Hall 
+Time: Week# 21 22
+
+Module 13
+Teacher: Liping 
+Subject: Digital Development with Python 
+Groups: 601 
+Type: Lecture 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 28
+
+Module 177
+Teacher: JHeyman 
+Subject: Industrial Engineering 
+Groups: 8001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 12
+
+Module 78
+Teacher: Joa 
+Subject: Organisations, People and Performance 
+Groups: 403 
+Type: Lecture 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 5
+
+Module 54
+Teacher: Gerald 
+Subject: Quality, Reliability & Maintenance 
+Groups: 8001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R2 
+Time: Week# 6
+
+Module 154
+Teacher: Brian 
+Subject: Storage and Warehouse Techniques 
+Groups: 505 
+Type: Lecture 
+Duration:  1  week(s)\Room: R7 
+Time: Week# 30
+
+Module 47
+Teacher: Emily 
+Subject: Financial Analysis and Control Systems 
+Groups: 501 
+Type: Lecture 
+Duration:  1  week(s)\Room: R7 
+Time: Week# 5
+
+Module 250
+Teacher: Milton 
+Subject: International Trade 
+Groups: 3003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R12 
+Time: Week# 19
+
+Module 18
+Teacher: Sha 
+Subject: Supply Chain Integration and Finance 
+Groups: 605, 705 
+Type: Lecture 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 13
+
+Module 150
+Teacher: Jan Nikola 
+Subject: Automotive Sensors and Sensor Fusion  
+Groups: 10005 
+Type: Lab 
+Duration:  1  week(s)\Room: R10 
+Time: Week# 25
+
+Module 36
+Teacher: Milan 
+Subject: Quality, Reliability & Maintenance 
+Groups: 105 
+Type: Lecture 
+Duration:  1  week(s)\Room: R10 
+Time: Week# 26
+
+Module 202
+Teacher: Kingston 
+Subject: Project Planning Management & Control 
+Groups: 8001 
+Type: Lab 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 11
+
+Module 11
+Teacher: Milton 
+Subject: Financial Analysis and Control Systems 
+Groups: 4005 
+Type: Lab 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 2
+
+Module 132
+Teacher: Jovanola 
+Subject: Project Planning Management and Control 
+Groups: 403 
+Type: Lecture 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 25
+
+Module 63
+Teacher: Jić Nia 
+Subject: Process Improvement using Six Sigma 
+Groups: 305 
+Type: Lecture 
+Duration:  2 week(s)\Room: R7 
+Time: Week# 9 10
+
+Module 74
+Teacher: Harvey 
+Subject: Quality and Productivity in Health Service Systems 
+Groups: 5003 
+Type: Lab 
+Duration:  1  week(s)\Room: B1 
+Time: Week# 27
+
+Module 157
+Teacher: Aaron 
+Subject: Information Risk Management and Governance 
+Groups: 7003 
+Type: Lab 
+Duration:  1  week(s)\Room: C1 
+Time: Week# 27
+
+Module 147
+Teacher: Jovanović Nikola 
+Subject: Systems Thinking and Systems Engineering  
+Groups: 205 
+Type: Lab 
+Duration:  1  week(s)\Room: L2 
+Time: Week# 7
+
+Module 67
+Teacher: Milton 
+Subject: Service Design and Delivery 
+Groups: 4005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 30
+
+Module 319
+Teacher: Milton 
+Subject: Service Support Technologies 
+Groups: 4003 
+Type: Lecture 
+Duration:  1  week(s)\Room: A2 
+Time: Week# 27
+
+Module 23
+Teacher: Alexis 
+Subject: Cyber Intelligence and Operations 
+Groups: 7005 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 13
+
+Module 2
+Teacher: Jovanović Charles 
+Subject: Innovative Simulation Design and Development 
+Groups: 1005 
+Type: Lecture 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 17
+
+Module 193
+Teacher: Heyman Nikola 
+Subject: Resource Management in Healthcare Service Delivery 
+Groups: 5005 
+Type: Lab 
+Duration: 1 week(s)\Room: B1 
+Time: Week# 4
+
+Module 103
+Teacher: Areeb 
+Subject: Product Excellence using Six Sigma 
+Groups: 301 
+Type: Lecture 
+Duration:  2  week(s)\Room: R3 
+Time: Week# 27 28
+
+Module 118
+Teacher: Lindhi 
+Subject: Programme and Project Strategy 
+Groups: 403 
+Type: Lecture 
+Duration:  1  week(s)\Room: R12 
+Time: Week# 26
+
+Module 9
+Teacher: Zirojevic Nemanja 
+Subject: Operations Strategy for Industry 
+Groups: 103 
+Type: Lecture 
+Duration: 1 week(s)\Room: R7 
+Time: Week# 18
+
+Module 72
+Teacher: Sha 
+Subject: Digital and Data Science Consultancy 
+Groups: 1003 
+Type: Lecture 
+Duration:  2  week(s)\Room: A1 
+Time: Week# 21 22
+
+Module 176
+Teacher: James 
+Subject: Digital Retail Strategy 
+Groups: 703 
+Type: Lecture 
+Duration:  2  week(s)\Room: R4 
+Time: Week# 29 30
+
+Module 90
+Teacher: Aaron 
+Subject: Security Architectures and Network Defence 
+Groups: 7005 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 11
+
+Module 167
+Teacher: Jackson Thomas 
+Subject: Financial Analysis & Control Systems 
+Groups: 2001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R2 
+Time: Week# 1
+
+Module 8
+Teacher: Feyman 
+Subject: Project Financial Management 
+Groups: 401 
+Type: Lecture 
+Duration:  1  week(s)\Room: R6 
+Time: Week# 24
+
+Module 77
+Teacher: Liping 
+Subject: Big Data Technology and Visualisation 
+Groups: 803 
+Type: Lecture 
+Duration:  2  week(s)\Room: R10 
+Time: Week# 1 2
+
+Module 97
+Teacher: Michael Mortenson 
+Subject: Machine Learning and Data Engineering 
+Groups: 805 
+Type: Lab 
+Duration:  2  week(s)\Room: R8 
+Time: Week# 11 12
+
+Module 43
+Teacher: Dan 
+Subject: Logistics & Operations Management 
+Groups: 503 
+Type: Lecture 
+Duration:  1  week(s)\Room: R11 
+Time: Week# 12
+
+Module 56
+Teacher: Harvey 
+Subject: Electronic Health Record Systems 
+Groups: 5001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R1 
+Time: Week# 10
+
+Module 120
+Teacher: Martin 
+Subject: The Virtual Factory 
+Groups: 8003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R5 
+Time: Week# 13
+
+Module 19
+Teacher: Jić Nia 
+Subject: Process Improvement using Six Sigma 
+Groups: 303 
+Type: Lecture 
+Duration:  2 week(s)\Room: A1 
+Time: Week# 7 8
+
+Module 46
+Teacher: Areeb 
+Subject: Product Design & Development Management 
+Groups: 101 
+Type: Lecture 
+Duration: 1 week(s)\Room: A1 
+Time: Week# 5
+
+Module 130
+Teacher: Gareth 
+Subject: Creating a Digital Brand 
+Groups: 703 
+Type: Lecture 
+Duration:  2  week(s)\Room: R8 
+Time: Week# 1 2
+
+Module 214
+Teacher: James 
+Subject: Digital Retail Strategy 
+Groups: 701 
+Type: Lecture 
+Duration:  2  week(s)\Room: R12 
+Time: Week# 1 2
+
+Module 32
+Teacher: Kingston 
+Subject: Enterprise Cyber Security 
+Groups: 7003 
+Type: Lab 
+Duration:  1  week(s)\Room: C1 
+Time: Week# 29
+
+Module 139
+Teacher: Joshua 
+Subject: Leading Change in Healthcare 
+Groups: 5005 
+Type: Lecture 
+Duration:  1  week(s)\Room: A1 
+Time: Week# 30
+
+Module 66
+Teacher: Jovanović Charles 
+Subject: Digital Forensics 
+Groups: 7003 
+Type: Lab 
+Duration:  1  week(s)\Room: C2 
+Time: Week# 22
+
+Module 168
+Teacher: Martin 
+Subject: Automotive Research, Strategy and Environment 
+Groups: 9003 
+Type: Lecture 
+Duration:  2  week(s)\Room: R8 
+Time: Week# 9 10
+
+Module 220
+Teacher: Roberto 
+Subject: Procurement and Inventory Management 
+Groups: 503 
+Type: Lecture 
+Duration:  1  week(s)\Room: R1 
+Time: Week# 19
+
+Module 111
+Teacher: Areeb 
+Subject: Modelling and Simulation of Systems  
+Groups: 9005 
+Type: Lecture 
+Duration:  2  week(s)\Room: R9 
+Time: Week# 11 12
+
+Module 89
+Teacher: Lucy 
+Subject: Energy Storage Systems 
+Groups: 9003 
+Type: Lab 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 4
+
+Module 222
+Teacher: Milton 
+Subject: Service Design and Delivery 
+Groups: 4001 
+Type: Lecture 
+Duration:  1  week(s)\Room: R3 
+Time: Week# 8
+
+Module 31
+Teacher: Armaghan 
+Subject: e-Customer Relationship Management 
+Groups: 705 
+Type: Lab 
+Duration:  2  week(s)\Room: R12 
+Time: Week# 21 22
+
+Module 75
+Teacher: Jovanović Nikola 
+Subject: Systems Thinking and Systems Engineering  
+Groups: 205 
+Type: Lecture 
+Duration:  1  week(s)\Room: R13 
+Time: Week# 20
+
+Module 107
+Teacher: Feyman 
+Subject: Organisations, People and Performance 
+Groups: 401 
+Type: Lecture 
+Duration:  1  week(s)\Room: R5 
+Time: Week# 18
+
+Module 7
+Teacher: Lucy 
+Subject: Battery Electrochemistry, Design and Manufacturing 
+Groups: 9005 
+Type: Lecture 
+Duration: 1 week(s)\Room: Enginerring Hall 
+Time: Week# 14
+
+Module 245
+Teacher: Heyman Nikola 
+Subject: Managing Innovation and Change  
+Groups: 205 
+Type: Lecture 
+Duration: 1 week(s)\Room: A2 
+Time: Week# 8
+
+Module 86
+Teacher: Linda Gandhi 
+Subject: Product Excellence using Six Sigma 
+Groups: 303 
+Type: Lecture 
+Duration:  2  week(s)\Room: A1 
+Time: Week# 13 14
+
+Module 100
+Teacher: Harvey 
+Subject: Electronic Health Record Systems 
+Groups: 5003 
+Type: Lecture 
+Duration:  1  week(s)\Room: R6 
+Time: Week# 17
+
+Module 70
+Teacher: Kingston 
+Subject: Project Planning Management & Control 
+Groups: 8005 
+Type: Lab 
+Duration:  1  week(s)\Room: R6 
+Time: Week# 23
+
+Module 3
+Teacher: Johla 
+Subject: International Joint Ventures 
+Groups: 405 
+Type: Lecture 
+Duration:  1  week(s)\Room: R4 
+Time: Week# 11
+
+Module 48
+Teacher: Linda Heyman 
+Subject: Manufacturing Process Technology 
+Groups: 8001 
+Type: Lecture 
+Duration:  1  week(s)\Room: Enginerring Hall 
+Time: Week# 16
+
+Module 155
+Teacher: Jovanović Charles 
+Subject: Cyber Security Consultancy 
+Groups: 6001 
+Type: Lecture 
+Duration:  2  week(s)\Room: R6 
+Time: Week# 9 10
